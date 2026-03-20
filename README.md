@@ -113,7 +113,7 @@ Tracks:
 
 ---
 
-## 📐 Payout Formula
+##  Payout Formula
 
 ---
 
@@ -191,7 +191,7 @@ Fake users show unnatural patterns
 
 ---
 
-## 🔗 Integrations
+## Integrations
 
 - Weather API  
 - OpenAQ API  
