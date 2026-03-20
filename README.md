@@ -311,13 +311,13 @@ The system strictly focuses on income loss due to external disruptions.
 
 ## Team
 
-Team Name: InnovateX  
+Team Name: Trio
 University: Amrita Vishwa Vidyapeetham  
 
 Members:  
-- P. Kavya  
-- G. Akshaya Giri  
-- D. Manogna  
+- W. Venkat Ashrith
+- K. Madhuri 
+- M. Snigdha
 
 ---
 
