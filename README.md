@@ -59,7 +59,7 @@ No paperwork. No approvals. Just protection.
 
 ---
 
-## 📱 Workflow Breakdown
+## Workflow Breakdown
 
 ### 1. Onboarding
 - OTP login  
@@ -90,7 +90,7 @@ Tracks:
 
 ---
 
-## 💰 Weekly Pricing Model
+##  Weekly Pricing Model
 
 ### Plans
 
@@ -117,7 +117,7 @@ Tracks:
 
 ---
 
-## ⚡ Parametric Triggers
+##  Parametric Triggers
 
 | Trigger | Source | Threshold |
 |--------|--------|----------|
@@ -129,7 +129,7 @@ Tracks:
 
 ---
 
-## 🧠 AI/ML Components
+## AI/ML Components
 
 ### 1. Premium Prediction
 - Model: Gradient Boosting  
@@ -145,7 +145,7 @@ Tracks:
 
 ---
 
-## 🛡️ Adversarial Defense & Anti-Spoofing Strategy
+## Adversarial Defense & Anti-Spoofing Strategy
 
 ### 1. Differentiation
 
@@ -201,7 +201,7 @@ Fake users show unnatural patterns
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React Native  
@@ -224,7 +224,7 @@ Fake users show unnatural patterns
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### Worker
 - Coverage status  
@@ -238,7 +238,7 @@ Fake users show unnatural patterns
 
 ---
 
-## 📅 Development Roadmap
+## Development Roadmap
 
 ### Phase 1
 - Ideation  
@@ -257,7 +257,7 @@ Fake users show unnatural patterns
 
 ---
 
-## 📱 Platform Choice
+## Platform Choice
 
 | Platform | Reason |
 |--------|-------|
@@ -266,7 +266,7 @@ Fake users show unnatural patterns
 
 ---
 
-## ❌ Exclusions
+## Exclusions
 
 - Health insurance  
 - Accident coverage  
@@ -277,14 +277,14 @@ Fake users show unnatural patterns
 
 ---
 
-## 👥 Team
+## Team
 
 **Team Name:** InnovateX  
 **University:** Amrita Vishwa Vidyapeetham  
 
 ---
 
-## 🔗 Links
+##Links
 
 - GitHub: (add link)  
 - Demo Video: (add link)  
@@ -292,6 +292,6 @@ Fake users show unnatural patterns
 
 ---
 
-## 🏁 Final Note
+## Final Note
 
 RainSure brings **financial stability to gig workers** using AI-driven automation and real-time disruption intelligence.
